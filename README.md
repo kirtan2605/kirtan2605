@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirtan2605
 - 👀 I’m interested in Space Systems Engineering 
-- 🌱 I’m currently learning Spacecraft Control
+- 🌱 I’m currently learning Data Handling and Transmission for Satellites
 - 💞️ I’m looking to collaborate on Design of Space Systems
 - 📫 You can reach me at kirtan_2605@yahoo.com
 
