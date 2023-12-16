@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kirtan2605
+- 🎓 I'm pursuing my Masters in Aerospace Engineering at the KTH Royal Institute of Technology, Stockholm
 - 🛰️ I’m interested in the development of Avionics and Space Systems 
 - 📡 I’m currently learning Microwave Engineering and Applied Antenna Theory
 - 💼 I’m looking to collaborate on Industrial Research & Development Projects
