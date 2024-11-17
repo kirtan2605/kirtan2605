@@ -20,6 +20,6 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-(https://github-readme-stats.vercel.app/api?username=kirtan2605&show_icons=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kirtan2605&show_icons=true&hide_border=true)
 
 
