@@ -9,10 +9,9 @@
 <br /> -->
 I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in the Space Environment and Plasma Physics. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
-
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" style="border: none;">
 
 ### 🛠️ Tools
 
@@ -42,7 +41,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 </div>
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" style="border: none;">
 <img src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png" width="100%">
 </td>
 </tr>
