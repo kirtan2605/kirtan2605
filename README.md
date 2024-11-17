@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm Kirtan Patel🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
+I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan2605&layout=compact)
