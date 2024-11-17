@@ -69,7 +69,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 ### 💻 Programming Languages
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; gap: 100px; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
