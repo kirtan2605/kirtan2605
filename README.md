@@ -92,27 +92,27 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 
   ### Utility
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- Git -->
-  <div onclick="window.open('https://git-scm.com/', '_blank');" style="cursor: pointer;">
+  <span onclick="window.open('https://git-scm.com/', '_blank');" style="cursor: pointer;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
-  </div>
+  </span>
   <!-- GitHub -->
-  <div onclick="window.open('https://github.com/', '_blank');" style="cursor: pointer;">
+  <span onclick="window.open('https://github.com/', '_blank');" style="cursor: pointer;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40"/>
-  </div>
+  </span>
   <!-- Linux -->
-  <div onclick="window.open('https://www.linux.org/', '_blank');" style="cursor: pointer;">
+  <span onclick="window.open('https://www.linux.org/', '_blank');" style="cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
-  </div>
+  </span>
   <!-- LaTeX -->
-  <div onclick="window.open('https://www.latex-project.org/', '_blank');" style="cursor: pointer;">
+  <span onclick="window.open('https://www.latex-project.org/', '_blank');" style="cursor: pointer;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40"/>
-  </div>
+  </span>
   <!-- Overleaf -->
-  <div onclick="window.open('https://www.overleaf.com/', '_blank');" style="cursor: pointer;">
+  <span onclick="window.open('https://www.overleaf.com/', '_blank');" style="cursor: pointer;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40"/>
-  </div>
+  </span>
 </div>
 
 
