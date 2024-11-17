@@ -38,7 +38,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- LibreVNA -->
   <a href="https://github.com/jankae/LibreVNA" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Github_icon.svg" alt="LibreVNA" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/librevna.png" alt="LibreVNA" height="40" style="display: block;"/>
   </a>
   <!-- Thermica -->
   <a href="https://www.ariane.group/en/thermica/" target="_blank">
