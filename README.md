@@ -16,7 +16,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- ARCADIA-Capella -->
   <a href="https://www.eclipse.org/capella/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" height="50" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" height="45" style="display: block;"/>
   </a>
   <!-- MATLAB -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
@@ -65,7 +65,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   </a>
   <!-- AutoCAD -->
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="50" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="45" style="display: block;"/>
   </a>
 </div> 
 <hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
@@ -86,13 +86,13 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
   </a>
   <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="50" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="45" style="display: block;"/>
   </a>
 </div>
 <hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="50" style="border: none;"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="45" style="border: none;"/>
   </a>
   <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" style="border: none; display: block;"/>
