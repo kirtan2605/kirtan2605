@@ -94,26 +94,27 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   ### Utility
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; color: #24292f;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
   </a>
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/" target="_blank" style="text-decoration: none; color: #24292f;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40"/>
   </a>
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; color: #24292f;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
   </a>
   <!-- LaTeX -->
-  <a href="https://www.latex-project.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.latex-project.org/" target="_blank" style="text-decoration: none; color: #24292f;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40"/>
   </a>
   <!-- Overleaf -->
-  <a href="https://www.overleaf.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.overleaf.com/" target="_blank" style="text-decoration: none; color: #24292f;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40"/>
   </a>
 </div>
+
 
 
 
