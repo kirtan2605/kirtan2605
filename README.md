@@ -8,6 +8,66 @@
 <br /> -->
 I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
+### Tools
+### 🛠️ Tools and Software
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <!-- ARCADIA-Capella -->
+  <a href="https://www.eclipse.org/capella/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Eclipse_Capella_logo.png" alt="ARCADIA-Capella" width="40" height="40"/>
+  </a>
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+  <!-- Orekit -->
+  <a href="https://www.orekit.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Orekit_logo.svg" alt="Orekit" width="40" height="40"/>
+  </a>
+  <!-- ANSYS HFSS -->
+  <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/ANSYS_logo.png" alt="ANSYS HFSS" width="40" height="40"/>
+  </a>
+  <!-- CST Microwave Studio -->
+  <a href="https://www.3ds.com/products-services/simulia/products/cst-studio-suite/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Dassault_Syst%C3%A8mes_logo.svg" alt="CST Microwave Studio" width="40" height="40"/>
+  </a>
+  <!-- AWR Microwave Office -->
+  <a href="https://www.cadence.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Cadence_Logo.svg" alt="AWR Microwave Office" width="40" height="40"/>
+  </a>
+  <!-- LibreVNA -->
+  <a href="https://github.com/jankae/LibreVNA" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Github_icon.svg" alt="LibreVNA" width="40" height="40"/>
+  </a>
+  <!-- Thermica -->
+  <a href="https://www.ariane.group/en/thermica/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Thermica_logo_placeholder.png" alt="Thermica" width="40" height="40"/>
+  </a>
+  <!-- SDR++ -->
+  <a href="https://github.com/AlexandreRouma/SDRPlusPlus" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Github_icon.svg" alt="SDR++" width="40" height="40"/>
+  </a>
+  <!-- LTSpice -->
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/LTspice_logo_placeholder.png" alt="LTSpice" width="40" height="40"/>
+  </a>
+  <!-- Blender -->
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  <!-- Fusion 360 -->
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Autodesk_fusion360_logo.png" alt="Fusion 360" width="40" height="40"/>
+  </a>
+  <!-- AutoCAD -->
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" width="40" height="40"/>
+  </a>
+</div>
+
+
+
 ### 🛠️ Languages and Tools
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
