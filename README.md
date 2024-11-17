@@ -71,7 +71,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 ### 💻 Programming Languages
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 100px; justify-items: center; align-items: center;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display: block;"/>
   </a>
@@ -92,6 +92,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 
   ### Utility
+  <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
