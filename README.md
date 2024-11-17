@@ -6,9 +6,6 @@
 <img align="left" alt="Kirtan Patel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /> -->
-
-<br />
-
 I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
 **Languages and Tools:**
