@@ -12,8 +12,9 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 
 
-<div align="center">
-<div align="left" width="35%" style="display: inline-block; vertical-align: middle;">
+<kbd><img src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png" width="400" align="right"/></kbd>
+
+# Skills & Expertise
 
 ### 🛠️ Tools
 
@@ -113,8 +114,4 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   <a href="https://www.overleaf.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" style="border: none;"/>
   </a>
-</div>
-
-</div>
-<img align="right" width="60%" style="display: inline-block; vertical-align: middle;" src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png">
 </div>
