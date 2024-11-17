@@ -76,7 +76,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   </div>
   <!-- Right Side: Large Image -->
   <div style="flex: 0 0 30%; max-width: 30%; display: flex; justify-content: center; align-items: center; padding-left: 20px;">
-    <img src="https://www.example.com/your-large-image.jpg" alt="Large Image" style="width: 100%; height: auto; border-radius: 10px;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png" alt="Large Image" style="width: 100%; height: auto; border-radius: 10px;"/>
   </div>
 </div>
 
