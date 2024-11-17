@@ -72,23 +72,24 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 ### 💻 Programming Languages
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  height="40" style="display: block;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="display: block;"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
-  </a>
-  <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" height="40" style="display: block;"/>
-  </a>
+<div class="text-center">
+    <a class="text-decoration-none" href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="border: none; outline: none;"/>
+    </a>
+    <a class="text-decoration-none" href="https://github.com/" target="_blank">
+        <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" style="border: none; outline: none; display: block;"/>
+    </a>
+    <a class="text-decoration-none" href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="border: none; outline: none;"/>
+    </a>
+    <a class="text-decoration-none" href="https://www.latex-project.org/" target="_blank">
+        <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40" style="border: none; outline: none;"/>
+    </a>
+    <a class="text-decoration-none" href="https://www.overleaf.com/" target="_blank">
+        <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" style="border: none; outline: none;"/>
+    </a>
 </div>
+
 
 
 
