@@ -35,7 +35,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst.png" alt="CST Microwave Studio" height="40" style="display: block;"/>
   </a>
   <!-- AWR Microwave Office -->
-  <a href="https://www.cadence.com/" target="_blank">
+  <a href="https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-design-environment-platform.html" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/awr.png" alt="AWR Microwave Office" height="40" style="display: block;"/>
   </a>
   <!-- LibreVNA -->
@@ -48,7 +48,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/systema.png" alt="Thermica" height="40" style="display: block;"/>
   </a>
   <!-- SDR++ -->
-  <a href="https://github.com/AlexandreRouma/SDRPlusPlus" target="_blank">
+  <a href="https://www.sdrpp.org" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/sdrpp.png" alt="SDR++" height="40" style="display: block;"/>
   </a>
   <!-- LTSpice -->
@@ -76,10 +76,10 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
   <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  height="40" style="display: block;"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+  <a href="https://cplusplus.com" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.w3schools.com/java/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" style="display: block;"/>
 </a>
   <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
