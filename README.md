@@ -13,7 +13,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <!-- ARCADIA-Capella -->
   <a href="https://www.eclipse.org/capella/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Eclipse_Capella_logo.png" alt="ARCADIA-Capella" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" width="40" height="40"/>
   </a>
   <!-- MATLAB -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
@@ -21,15 +21,15 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- Orekit -->
   <a href="https://www.orekit.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Orekit_logo.svg" alt="Orekit" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/orekit-space.png" alt="Orekit" width="40" height="40"/>
   </a>
   <!-- ANSYS HFSS -->
   <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/ANSYS_logo.png" alt="ANSYS HFSS" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ansys-hfss-vertical.png" alt="ANSYS HFSS" width="40" height="40"/>
   </a>
   <!-- CST Microwave Studio -->
   <a href="https://www.3ds.com/products-services/simulia/products/cst-studio-suite/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Dassault_Syst%C3%A8mes_logo.svg" alt="CST Microwave Studio" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst-studio-suite.png" alt="CST Microwave Studio" width="40" height="40"/>
   </a>
   <!-- AWR Microwave Office -->
   <a href="https://www.cadence.com/" target="_blank">
