@@ -90,7 +90,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
   </a>
 </div>
-
+<hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 ### Utility
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
