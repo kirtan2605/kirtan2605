@@ -46,11 +46,11 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- SDR++ -->
   <a href="https://github.com/AlexandreRouma/SDRPlusPlus" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Github_icon.svg" alt="SDR++" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/sdrpp.png" alt="SDR++" height="40" style="display: block;"/>
   </a>
   <!-- LTSpice -->
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/LTspice_logo_placeholder.png" alt="LTSpice" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ltspice.png" alt="LTSpice" height="40" style="display: block;"/>
   </a>
   <!-- Blender -->
   <a href="https://www.blender.org/" target="_blank">
