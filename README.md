@@ -9,7 +9,9 @@
 <br /> -->
 I'm an Aerospace Engineering student and Physics enthusiast with a passion for tackling complex systems, whether it’s optimizing space missions, modeling the Space Environment, or exploring Plasma Physics. I thrive on solving challenging problems and understanding intricate concepts. Outside of academics, I love going for a run, keeping up with Formula 1, and cheering on Real Madrid CF.
 
-### 🛠️ Tools
+### 🛠️ Tools, Programming Languages and Utility
+
+<img align="right" width="57.5%" src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png">
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- ARCADIA-Capella -->
@@ -65,13 +67,8 @@ I'm an Aerospace Engineering student and Physics enthusiast with a passion for t
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
   </a>
-</div>
-
-
-
-
-### 💻 Programming Languages
-
+</div> 
+<hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
@@ -92,10 +89,7 @@ I'm an Aerospace Engineering student and Physics enthusiast with a passion for t
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
   </a>
 </div>
-
-
-
-  ### Utility
+<hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border: none;"/>
@@ -113,5 +107,3 @@ I'm an Aerospace Engineering student and Physics enthusiast with a passion for t
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" style="border: none;"/>
   </a>
 </div>
-
-
