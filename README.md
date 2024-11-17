@@ -21,7 +21,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- Orekit -->
   <a href="https://www.orekit.org/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/orekit-space.png" alt="Orekit" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/orekit.png" alt="Orekit" height="40" style="display: block;"/>
   </a>
   <!-- ANSYS HFSS -->
   <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">
