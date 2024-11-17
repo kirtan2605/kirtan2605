@@ -1,44 +1,15 @@
-<!----
-- 👋 Hi, I’m @kirtan2605
-- 🎓 I'm pursuing my Masters in Aerospace Engineering at the KTH Royal Institute of Technology, Stockholm
-- 🛰️ I’m interested in the development of Radar Systems
-- 💼 I’m looking to collaborate on Industrial Research & Development Projects
-- 📧 You can reach me at kirtan_2605@yahoo.com
----->
 
-<!---
-kirtan2605/kirtan2605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-- 📡 I’m currently learning Microwave Engineering and Applied Antenna Theory ---->
-
-
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Kirtan!](https://kirtan2605.github.io/MyPortfolio/)
 
 <br/>
-
-
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.linkedin.com/in/kirtan2605/">
+<img align="left" alt="Kirtan Patel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 
 <br />
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Kirtan Patel🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -55,7 +26,7 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan2605&layout=compact)
 
 **Community**
 - Google Developer Group Bengaluru
