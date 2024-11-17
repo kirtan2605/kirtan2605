@@ -20,7 +20,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   </a>
   <!-- MATLAB -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="50" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="display: block;"/>
   </a>
   <!-- Orekit -->
   <a href="https://www.orekit.org/" target="_blank">
