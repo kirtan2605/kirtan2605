@@ -90,8 +90,9 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
 </div>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan2605&layout=compact)
+-->
 
 
 <!--
