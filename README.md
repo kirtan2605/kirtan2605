@@ -67,7 +67,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 
 
-### 🛠️ Programming Languages
+### 💻 Programming Languages
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank">
