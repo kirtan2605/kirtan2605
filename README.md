@@ -9,10 +9,9 @@
 <br /> -->
 I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in the Space Environment and Plasma Physics. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
+### 🛠️ Tools, Languages and Utility
 
 <img align="right" width="57.5%" src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png">
-
-### 🛠️ Tools and Languages
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- ARCADIA-Capella -->
