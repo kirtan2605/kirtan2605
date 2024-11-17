@@ -93,33 +93,28 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
   ### Utility
 <style>
-  a {
-    text-decoration: none; /* Remove underline */
-    outline: none;         /* Remove the focus outline */
-    display: inline-block; /* Ensures images are inline but still block-level for styling */
-  }
-
-  a img {
-    display: block;       /* Remove space below images (inline-block issue) */
+  .icon-container img {
+    display: block;       /* Prevents space below images */
+    border: none;         /* Ensures no borders */
   }
 </style>
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40"/>
-  </a>
-  <a href="https://www.overleaf.com/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40"/>
-  </a>
+  <div class="icon-container">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" />
+  </div>
+  <div class="icon-container">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" />
+  </div>
+  <div class="icon-container">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" />
+  </div>
+  <div class="icon-container">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40" />
+  </div>
+  <div class="icon-container">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" />
+  </div>
 </div>
 
 
