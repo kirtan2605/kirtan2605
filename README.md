@@ -9,7 +9,8 @@
 <br /> -->
 I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in the Space Environment and Plasma Physics. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
   <!-- Left Side: Tools, Programming Languages, and Utility Sections -->
   <div style="flex: 1; min-width: 65%;">
@@ -76,9 +77,10 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   </div>
 
   <!-- Right Side: Large Image -->
-  <div style="flex: 1; min-width: 30%; padding-left: 20px;">
+  <div style="flex: 0 0 30%; max-width: 30%; padding-left: 20px; display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png" alt="Large Image" style="width: 100%; height: auto; border-radius: 10px;"/>
   </div>
+
 </div>
 
 
