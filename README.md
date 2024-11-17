@@ -92,23 +92,24 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 
   ### Utility
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://git-scm.com/" target="_blank" style="border: none; outline: none; text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="display: block;"/>
   </a>
-  <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://github.com/" target="_blank" style="border: none; outline: none; text-decoration: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://www.linux.org/" target="_blank" style="border: none; outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.latex-project.org/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://www.latex-project.org/" target="_blank" style="border: none; outline: none; text-decoration: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.overleaf.com/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://www.overleaf.com/" target="_blank" style="border: none; outline: none; text-decoration: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" style="display: block;"/>
   </a>
 </div>
+
 
 
 
