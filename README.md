@@ -1,3 +1,4 @@
+<img src="[https://example.com/your-image.jpg](https://github.com/kirtan2605/kirtan2605/blob/master/images/header/webpage-header.png)" alt="Header Image" style="width: 100%; height: auto;">
 
 ### Hello World 👋 It's [Kirtan!](https://kirtan2605.github.io/)
 <!--
