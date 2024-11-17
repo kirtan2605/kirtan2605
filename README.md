@@ -69,7 +69,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 ### 💻 Programming Languages
 
-<div style="display: flex; gap: 100px; flex-wrap: wrap;">
+<div style="display: flex; gap: 100px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -85,6 +85,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   <a href="https://micropython.org/" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" width="40" height="40"/>
   </a>
+</div>
 
   ### Utility
   <a href="https://git-scm.com/" target="_blank">
