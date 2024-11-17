@@ -11,7 +11,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 ### 🛠️ Tools
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 2000px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- ARCADIA-Capella -->
   <a href="https://www.eclipse.org/capella/" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" height="40" style="display: block;"/>
