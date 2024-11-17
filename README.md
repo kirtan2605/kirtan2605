@@ -44,7 +44,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
   </a>
   <br><br>
   <!-- Thermica -->
-  <a href="https://www.ariane.group/en/thermica/" target="_blank">
+  <a href="https://www.airbus.com/en/products-services/space/customer-services/systema/thermica-and-thermisol" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/systema.png" alt="Thermica" height="40" style="display: block;"/>
   </a>
   <!-- SDR++ -->
