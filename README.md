@@ -83,7 +83,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://micropython.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/MicroPython_logo.png" alt="MicroPython" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" width="40" height="40"/>
   </a>
 
   ### Utility
