@@ -25,11 +25,11 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- ANSYS HFSS -->
   <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ansys-hfss-horizontal.png" alt="ANSYS HFSS" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ansys-a.png" alt="ANSYS HFSS" height="40" style="display: block;"/>
   </a>
   <!-- CST Microwave Studio -->
   <a href="https://www.3ds.com/products-services/simulia/products/cst-studio-suite/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst-studio-suite.png" alt="CST Microwave Studio" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst.png" alt="CST Microwave Studio" height="40" style="display: block;"/>
   </a>
   
   <!-- AWR Microwave Office -->
