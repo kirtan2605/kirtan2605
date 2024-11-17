@@ -67,7 +67,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 
 
-### 🛠️ Languages and Tools
+### 🛠️ Programming Languages
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank">
@@ -79,6 +79,14 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
+  </a>
+  <a href="https://micropython.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/MicroPython_logo.png" alt="MicroPython" width="40" height="40"/>
+  </a>
+
+  ### Utility
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
