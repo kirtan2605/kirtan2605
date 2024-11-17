@@ -8,8 +8,7 @@
 <br /> -->
 I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going for a run, following Formula 1 and supporting Real Madrid CF.
 
-### Tools
-### 🛠️ Tools and Software
+### 🛠️ Tools
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <!-- ARCADIA-Capella -->
