@@ -100,7 +100,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
   </a>
     <a href="https://www.latex-project.org/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/latex.png" alt="LaTeX" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/latex-white.png" alt="LaTeX" height="40"/>
   </a>
   <!-- Overleaf -->
   <a href="https://www.overleaf.com/" target="_blank">
