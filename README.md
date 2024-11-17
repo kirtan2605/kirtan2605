@@ -92,34 +92,22 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 
   ### Utility
-<style>
-  .icon-container {
-    display: inline-block;  /* Ensures the images stay side by side */
-    margin-right: 20px;     /* Adds space between images */
-    cursor: pointer;       /* Makes the icon appear clickable */
-  }
-  .icon-container img {
-    display: block;         /* Removes any spacing below images */
-    border: none;           /* Removes any borders */
-  }
-</style>
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div class="icon-container" onclick="window.open('https://git-scm.com/', '_blank')">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" />
-  </div>
-  <div class="icon-container" onclick="window.open('https://github.com/', '_blank')">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" />
-  </div>
-  <div class="icon-container" onclick="window.open('https://www.linux.org/', '_blank')">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" />
-  </div>
-  <div class="icon-container" onclick="window.open('https://www.latex-project.org/', '_blank')">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40" />
-  </div>
-  <div class="icon-container" onclick="window.open('https://www.overleaf.com/', '_blank')">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" />
-  </div>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="display: block;"/>
+  </a>
+  <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" style="display: block;"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="display: block;"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40" style="display: block;"/>
+  </a>
+  <a href="https://www.overleaf.com/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" style="display: block;"/>
+  </a>
 </div>
 
 
