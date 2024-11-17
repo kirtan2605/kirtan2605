@@ -42,7 +42,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- Thermica -->
   <a href="https://www.ariane.group/en/thermica/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Thermica_logo_placeholder.png" alt="Thermica" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/systema.png" alt="Thermica" height="40" style="display: block;"/>
   </a>
   <!-- SDR++ -->
   <a href="https://github.com/AlexandreRouma/SDRPlusPlus" target="_blank">
