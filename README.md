@@ -12,7 +12,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 <img align="right" width="57.5%" src="https://github.com/kirtan2605/kirtan2605/blob/kirtan2605-adding-image-beside-skills/images/Logical_Architecture.png">
 
-### 🛠️ Tools
+### 🛠️ Tools and Languages
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- ARCADIA-Capella -->
@@ -68,10 +68,8 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
   </a>
-</div>
-
-### 💻 Programming Languages
-
+</div> 
+<br>
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
