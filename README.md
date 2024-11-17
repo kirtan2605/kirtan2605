@@ -73,19 +73,19 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display: block;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="display: block;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  height="40" style="display: block;"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="display: block;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="display: block;"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40" style="display: block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
   </a>
   <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" width="40" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" height="40" style="display: block;"/>
   </a>
 </div>
 
@@ -97,14 +97,14 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
   </a>
     <a href="https://www.latex-project.org/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/latex.png" alt="LaTeX" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/latex.png" alt="LaTeX" height="40"/>
   </a>
   <!-- Overleaf -->
   <a href="https://www.overleaf.com/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/overleaf.png" alt="Overleaf" width="40" height="40"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/overleaf.png" alt="Overleaf" height="40"/>
   </a>
 </div>
 
