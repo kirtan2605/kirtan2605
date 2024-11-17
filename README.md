@@ -70,22 +70,23 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
 ### 💻 Programming Languages
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 100px; justify-items: center; align-items: center;">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="display: block;"/>
   </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
+  <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40" style="display: block;"/>
   </a>
-  <a href="https://micropython.org/" target="_blank">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" width="40" height="40"/>
+  <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" width="40" height="40" style="display: block;"/>
   </a>
 </div>
+
 
 
   ### Utility
