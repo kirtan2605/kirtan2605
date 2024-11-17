@@ -93,8 +93,12 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+    <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
+  </a>
+  <!-- Overleaf -->
+  <a href="https://www.overleaf.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Overleaf_Logo.svg" alt="Overleaf" width="40" height="40"/>
   </a>
 </div>
 
