@@ -92,6 +92,18 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 
   ### Utility
+<style>
+  .icon-container {
+    display: inline-block;  /* Ensures the images stay side by side */
+    margin-right: 20px;     /* Adds space between images */
+    cursor: pointer;       /* Makes the icon appear clickable */
+  }
+  .icon-container img {
+    display: block;         /* Removes any spacing below images */
+    border: none;           /* Removes any borders */
+  }
+</style>
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div class="icon-container" onclick="window.open('https://git-scm.com/', '_blank')">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" />
@@ -109,6 +121,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" />
   </div>
 </div>
+
 
 
 
