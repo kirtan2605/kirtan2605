@@ -86,7 +86,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
   </a>
   <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-with-background-modified.png" alt="MicroPython" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
   </a>
 </div>
 
