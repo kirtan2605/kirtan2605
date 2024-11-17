@@ -31,6 +31,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   <a href="https://www.3ds.com/products-services/simulia/products/cst-studio-suite/" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst-studio-suite.png" alt="CST Microwave Studio" height="40" style="display: block;"/>
   </a>
+  
   <!-- AWR Microwave Office -->
   <a href="https://www.cadence.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Cadence_Logo.svg" alt="AWR Microwave Office" height="40" style="display: block;"/>
@@ -57,11 +58,11 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   </a>
   <!-- Fusion 360 -->
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Autodesk_fusion360_logo.png" alt="Fusion 360" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/fusion360.png" alt="Fusion 360" height="40" style="display: block;"/>
   </a>
   <!-- AutoCAD -->
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
   </a>
 </div>
 
