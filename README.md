@@ -34,7 +34,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast. Apart from that I love going
   
   <!-- AWR Microwave Office -->
   <a href="https://www.cadence.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Cadence_Logo.svg" alt="AWR Microwave Office" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/awr.png" alt="AWR Microwave Office" height="40" style="display: block;"/>
   </a>
   <!-- LibreVNA -->
   <a href="https://github.com/jankae/LibreVNA" target="_blank">
