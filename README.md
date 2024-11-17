@@ -7,7 +7,7 @@
 <img align="left" alt="Kirtan Patel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /> -->
-I'm an Aerospace Engineering student and Physics enthusiast with a passion for tackling complex systems, whether it’s optimizing space missions, modeling the Space Environment, or exploring Plasma Physics. I thrive on solving challenging problems and understanding intricate concepts. Outside of academics, I love going for a run, keeping up with Formula 1, and cheering on Real Madrid CF.
+I'm an Aerospace Engineering student and a Physics enthusiast with a passion for tackling complex systems, whether it’s optimizing space missions, modeling the Space Environment, or exploring Plasma Physics. I thrive on solving challenging problems and understanding intricate concepts. Outside of academics, I love going for a run, keeping up with Formula 1, and cheering on Real Madrid CF.
 
 ### 🛠️ Tools, Programming Languages and Utility
 
