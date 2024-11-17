@@ -1,5 +1,5 @@
 
-### Hello World 👋 It's [Kirtan!](https://kirtan2605.github.io/MyPortfolio/)
+### Hello World 👋 It's [Kirtan!](https://kirtan2605.github.io/)
 
 <br/>
 <a href="https://www.linkedin.com/in/kirtan2605/">
