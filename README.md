@@ -11,7 +11,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 ### 🛠️ Tools
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- ARCADIA-Capella -->
   <a href="https://www.eclipse.org/capella/" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" height="40" style="display: block;"/>
@@ -72,7 +72,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 ### 💻 Programming Languages
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
   </a>
@@ -93,7 +93,7 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
 
 
   ### Utility
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border: none;"/>
   </a>
