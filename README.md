@@ -70,32 +70,6 @@ I'm an Aerospace Engineer and a Physics Enthusiast, particularly interested in t
   </a>
 </div>
 
-
-
-
-### 💻 Programming Languages
-
-<div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  height="40" style="display: block;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="display: block;"/>
-  </a>
-  <a href="https://www.w3schools.com/java/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" style="display: block;"/>
-</a>
-  <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
-  </a>
-  <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
-  </a>
-</div>
-
 ### 💻 Programming Languages
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
