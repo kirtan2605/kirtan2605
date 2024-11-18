@@ -68,7 +68,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
   </a>
 </div> 
-<hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
+<hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
@@ -89,7 +89,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
   </a>
 </div>
-<hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
+<hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border: none;"/>
