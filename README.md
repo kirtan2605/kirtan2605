@@ -9,7 +9,7 @@
 <br /> -->
 I'm an aerospace engineer and a physics enthusiast with a passion for tackling complex systems, whether it’s optimizing space missions, modeling the space environment, or exploring plasma physics. I thrive on solving challenging problems and understanding intricate concepts. Outside of academics, I love going for a run, keeping up with Formula 1, and cheering on Real Madrid CF.
 
-### 🛠️ Tools, Programming Languages and Utility
+### 🛠️ Tools, Programming Languages and Utilities
 
 <img align="right" width="57.5%" src="https://github.com/kirtan2605/kirtan2605/blob/master/images/Logical_Architecture.png">
 
