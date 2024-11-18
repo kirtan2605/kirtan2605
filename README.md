@@ -18,8 +18,8 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
   <a href="https://www.eclipse.org/capella/" target="_blank">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" height="40" style="display: block;"/>
   </a>
-  <!-- MATLAB -->
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <!-- Simulink -->
+  <a href="https://se.mathworks.com/products/simulink.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="display: block;"/>
   </a>
   <!-- Orekit -->
@@ -73,6 +73,10 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
+  </a>
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="display: block;"/>
   </a>
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
