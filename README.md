@@ -97,6 +97,9 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
   <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" style="border: none; display: block;"/>
   </a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/stm32-cube.png" alt="Overleaf" height="40" style="border: none;"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="border: none;"/>
   </a>
