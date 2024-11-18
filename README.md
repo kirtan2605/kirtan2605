@@ -70,43 +70,55 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
 </div> 
 <hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
   </a>
+  <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  height="40" style="display: block;"/>
   </a>
+  <!-- C++ -->
   <a href="https://cplusplus.com" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="display: block;"/>
   </a>
+  <!-- Java -->
   <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" style="display: block;"/>
 </a>
+  <!-- R Programming Language -->
   <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
   </a>
+  <!-- MicroPython -->
   <a href="https://micropython.org/" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
   </a>
 </div>
 <hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border: none;"/>
   </a>
+  <!-- Github -->
   <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/github-white.png" alt="GitHub" height="40" style="border: none; display: block;"/>
   </a>
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/stm32-cube.png" alt="Overleaf" height="40" style="border: none;"/>
-  </a>
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="border: none;"/>
   </a>
+  <!-- LaTeX -->
   <a href="https://www.latex-project.org/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/latex-white.png" alt="LaTeX" height="40" style="border: none;"/>
   </a>
+  <!-- Overleaf -->
   <a href="https://www.overleaf.com/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/overleaf.png" alt="Overleaf" height="40" style="border: none;"/>
+  </a>
+  <!-- STM32 Cube IDE -->
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/stm32-cube.png" alt="Overleaf" height="40" style="border: none;"/>
   </a>
 </div>
