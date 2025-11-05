@@ -21,15 +21,16 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst.png" alt="CST Microwave Studio" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/awr.png" alt="AWR Microwave Office" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/librevna.png" alt="LibreVNA" height="40" style="display: block;"/>
-  <br><br>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/systema.png" alt="Thermica" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/sdrpp.png" alt="SDR++" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ltspice.png" alt="LTSpice" height="40" style="display: block;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/fusion360.png" alt="Fusion 360" height="40" style="display: block;"/>
-    <img src="httpsG://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
 </div> 
+
 <hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
+
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="display: block;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="display: block;"/>
@@ -39,7 +40,9 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/programming-languages/micropython-white.png" alt="MicroPython" height="40" style="display: block;"/>
 </div>
+
 <hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
+
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/stm32-cube.png" alt="Overleaf" height="40" style="border: none;"/>
@@ -47,9 +50,10 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border: none;"/>
   
       
-    <img src="httpshttps://github.com/kirtan2605/kirtan2605/blob/3685cc725d3d9bab12eb63a5840e0a41a2fd53a6/images/utility/latex-white.png" alt="Zotero" height="40" style="border: none;"/>
+    <img src="https://github.com/kirtan2605/kirtan2605/blob/3685cc725d3d9bab12eb63a5840e0a41a2fd53a6/images/utility/latex-white.png" alt="Zotero" height="40" style="border: none;"/>
 
     <img src="https://github.com/kirtan2605/kirtan2605/blob/3685cc725d3d9bab12eb63a5840e0a41a2fd53a6/images/utility/zotero_logo.png" alt="Linux" height="40" style="border: none;"/>
+
   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="border: none;"/>
   
