@@ -18,11 +18,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/orekit.png" alt="Orekit" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ansys.png" alt="ANSYS HFSS" height="40" style="display: block;"/>
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/cst.png" alt="CST Microwave Studio" height="40" style="display: block;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/awr.png" alt="AWR Microwave Office" height="40" style="display: block;"/>
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/librevna.png" alt="LibreVNA" height="40" style="display: block;"/>
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/systema.png" alt="Thermica" height="40" style="display: block;"/>
-    <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/autocad.png" alt="AutoCAD" height="40" style="display: block;"/>
 </div> 
 
 <hr style="border: 2px solid #000; width: 80%; margin: 20px auto;">
