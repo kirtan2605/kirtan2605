@@ -13,7 +13,7 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
 
 <img align="right" width="50%" src="https://github.com/kirtan2605/kirtan2605/blob/master/images/Logical_Architecture.png">
 
-<div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 15px;">
+<div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 25px;">
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/arcadia-capella.png" alt="ARCADIA-Capella" height="40" style="clear: right;"/>
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/tools/ansys.png" alt="ANSYS HFSS" height="40" style=""/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style=""/>
