@@ -46,15 +46,9 @@ I'm an aerospace engineer and a physics enthusiast with a passion for tackling c
 <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center; align-items: center;">
   
     <img src="https://github.com/kirtan2605/kirtan2605/blob/master/images/utility/stm32-cube.png" alt="Overleaf" height="40" style="border: none;"/>
-
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border: none;"/>
-  
-      
     <img src="https://github.com/kirtan2605/kirtan2605/blob/3685cc725d3d9bab12eb63a5840e0a41a2fd53a6/images/utility/latex-white.png" alt="Zotero" height="40" style="border: none;"/>
-
     <img src="https://github.com/kirtan2605/kirtan2605/blob/3685cc725d3d9bab12eb63a5840e0a41a2fd53a6/images/utility/zotero_logo.png" alt="Linux" height="40" style="border: none;"/>
-
-  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="border: none;"/>
   
-      </div>
+ </div>
